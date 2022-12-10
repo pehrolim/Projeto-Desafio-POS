@@ -1,0 +1,66 @@
+{
+  "alunos": [
+    {
+      "nome": "Patrícia Marcela Sara Novaes",
+      "matricula": "003",
+      "curso": "Redes",
+      "id": 3
+    },
+    {
+      "nome": "Pedro",
+      "matricula": "004",
+      "curso": "Sistemas para internet",
+      "id": 4
+    }
+  ],
+  "disciplinas": [
+    {
+      "id": 1,
+      "nome": "Introdução a progração com scripts",
+      "cargaHoraria": "36h",
+      "professor": "Tiago Daniel Fernando Baptista",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "nome": "Fundamentos da Computação",
+      "cargaHoraria": "60h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 3,
+      "nome": "Linguagens de Marcação",
+      "cargaHoraria": "67h",
+      "professor": "Marcela Vera Mendes",
+      "status": "Obrigatória",
+      "observacos": "Lorem ipsum dolor sit amet consectetur adipisicing."
+    },
+    {
+      "id": 4,
+      "nome": "Português Instrumental",
+      "cargaHoraria": "50h",
+      "professor": "Maitê Analu Carolina Aragão",
+      "status": "Opcional",
+      "observacos": "Lorem ipsum dolor sit adipisicing elit."
+    },
+    {
+      "nome": "Java",
+      "cargaHoraria": "120h",
+      "professor": "Pedro",
+      "status": "Obrigatoria",
+      "observacos": "lorem ipsum dolor sit adipisicing elit.",
+      "id": 5
+    },
+    {
+      "nome": "PHP",
+      "cargaHoraria": "48h",
+      "professor": "Daniel",
+      "status": "Obrigatoria",
+      "observacos": "lorem ipsum dolor sit adipisicing elit.",
+      "id": 6
+    }
+  ]
+}
