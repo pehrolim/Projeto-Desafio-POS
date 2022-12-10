@@ -97,7 +97,7 @@ json-server --watch db.json
 | **DELETE** | /disciplinas/1 | Remove uma disciplinas
 
 ## Desafio
-### Parte 1posto;
+### Parte 1;
 * Adicionar botão **Nova disciplina** de acordo com o layout proposto;
 * Adicionar botões **APAGAR** e **EDITAR** nos cards de disciplina de acordo com o layout;
 * Caso o campo status receba o valor **Obrigatório** deve exibir o código
